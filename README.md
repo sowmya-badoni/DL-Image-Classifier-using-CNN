@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+**Name:** Mohammed Saajid
 
-### Register Number:
+**Register Number:** 212223240093
 
 ```python
 class CNNClassifier(nn.Module):
